@@ -132,6 +132,7 @@ Clone the repository and run `npm install` for all the dependencies to be instal
 git clone https://github.com/AoD-Technologies/cryptocurrency-pool-server.git
 cd cryptocurrency-pool-server
 npm install
+npm install n-multi-hashing
 ```
 
 #### 2) Configuration
